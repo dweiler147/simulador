@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2016/03/23 19:33:29.975,=C:\Users\Senac\Desktop\Simulador\Unit1.pas</Transaction>
+    <Transaction>2016/03/23 19:33:39.548,C:\Users\Senac\Desktop\Simulador\frmConfiguracao.dfm=C:\Users\Senac\Desktop\Simulador\Unit1.dfm</Transaction>
+    <Transaction>2016/03/23 19:33:39.548,C:\Users\Senac\Desktop\Simulador\frmConfiguracao.pas=C:\Users\Senac\Desktop\Simulador\Unit1.pas</Transaction>
+    <Transaction>2016/03/23 19:34:23.856,C:\Users\Senac\Desktop\Simulador\ConfiguracaoUnt.dfm=C:\Users\Senac\Desktop\Simulador\frmConfiguracao.dfm</Transaction>
+    <Transaction>2016/03/23 19:34:23.856,C:\Users\Senac\Desktop\Simulador\ConfiguracaoUnt.pas=C:\Users\Senac\Desktop\Simulador\frmConfiguracao.pas</Transaction>
+    <Transaction>2016/03/23 19:34:32.556,C:\Users\Senac\Desktop\Simulador\SimuladorUnt.pas=C:\Users\Senac\Desktop\Simulador\frmSimulador.pas</Transaction>
+    <Transaction>2016/03/23 19:34:32.556,C:\Users\Senac\Desktop\Simulador\SimuladorUnt.dfm=C:\Users\Senac\Desktop\Simulador\frmSimulador.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
